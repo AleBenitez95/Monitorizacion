@@ -40,3 +40,5 @@ Ejecuta un análisis para mostrar el resumen total del tamaño ocupado por el di
 
 
 ![memoria3](/img/memoria3.png)
+
+[Volver al índice principal](../README.md)
