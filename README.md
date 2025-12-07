@@ -2,22 +2,22 @@
 
 ![Badge](https://img.shields.io/badge/AleBenitez-Monitorizacion-blue)
 
-Bienvenido al repositorio de apuntes y prácticas. Selecciona una unidad para comenzar:
+
 
 ---
 
 ### 📂 Unidades del Curso
 
-- **[Unidad 1: Introducción](/ud1/ud1.md)**
-  > Conceptos iniciales sobre la monitorización.
-
-- **[Unidad 2: Gestión de Procesos](/ud2/ud2.md)**
+- **[Unidad 1: Procesos](/ud1/ud1.md)**
   > Uso de `ps`, `top`, `htop` y `atop`.
 
-- **[Unidad 3: Tráfico y Redes](/ud3/ud3.md)**
-  > Herramientas como `tcpdump`, `nmap` y `netstat`.
+- **[Unidad 2: Memoria y espacio](/ud2/ud2.md)**
+  > Gestión de memoria RAM y almacenamiento (`free`, `df`, `du`).
 
-- **[Unidad 4: Almacenamiento](/ud4/ud4.md)**
-  > Gestión de disco y memoria.
+- **[Unidad 3: Tráfico y Redes](/ud3/ud3.md)**
+  > Monitorización de conexiones y ancho de banda (`iptraf`, `bmon`, `tcptrack`).
+
+- **[Unidad 4: Puertos](/ud4/ud4.md)**
+  > Herramientas como `tcpdump`, `nmap` y `netstat`.
 
 ---
