@@ -12,7 +12,7 @@ free        # Muestra los atributos básicos en bruto
 free -h     # Muestra memoria usada y libre en unidades legibles (Human Readable)
 ````
 
-![memoria1](/img/memoria1.png)
+![memoria1](/ud2/img/memoria1.png)
 
 ### Espacio en disco legible
 
@@ -27,7 +27,7 @@ Comando utilizado para reportar el uso del espacio en disco de los sistemas de a
 df -ht
 ```
 
-![memoria2](/img/memoria2.png)
+![memoria2](/ud2/img/memoria2.png)
 
 ### Resumen de ocupación
 
@@ -39,6 +39,6 @@ Ejecuta un análisis para mostrar el resumen total del tamaño ocupado por el di
 
 
 
-![memoria3](/img/memoria3.png)
+![memoria3](/ud2/img/memoria3.png)
 
 [Volver al índice principal](../README.md)
