@@ -69,5 +69,6 @@ atop
 ![img7](/img/procesos7.png)
 
 
-[Volver al índice principal](readme)
+[Volver al índice principal](../README.md)
+
 
